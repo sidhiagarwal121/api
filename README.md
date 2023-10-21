@@ -1,2 +1,2 @@
-project_name:linkedinclone 
-author:sidhi agarwal
+project_name:Linkedin Clone 
+author:Sidhi Agarwal
